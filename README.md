@@ -1,2 +1,0 @@
-# worley.cloud
-worley.cloud
